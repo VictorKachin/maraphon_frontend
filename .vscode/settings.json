@@ -1,0 +1,9 @@
+{
+    "output.smartScroll.enabled": false,
+    "notebook.consolidatedOutputButton": false,
+    "npm.runInTerminal": false,
+    "jshint.enable": false,
+    "javascript.preferences.quoteStyle": "single",
+    "prettier.singleQuote": true,
+    "html.preview.doubleClickToSwitchToEditor": false
+}
